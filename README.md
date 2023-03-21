@@ -1,3 +1,3 @@
 # Challenge Nahamcon
 
-Solution of this problem with OCR,
+Solution of this problem with OCR.
